@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/plausible/community-edition/blob/v2.1.1/images/logo_dark.svg" width="300">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/plausible/community-edition/blob/v2.1.1/images/logo_light.svg" width="300">
-        <img src="https://github.com/plausible/community-edition/blob/v2.1.1/images/logo_light.svg" width="300">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plausible/community-edition/refs/heads/v2.1.1/images/logo_dark.svg" width="300">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plausible/community-edition/refs/heads/v2.1.1/images/logo_light.svg" width="300">
+        <img src="https://raw.githubusercontent.com/plausible/community-edition/refs/heads/v2.1.1/images/logo_light.svg" width="300">
     </picture>
 </p>
 
