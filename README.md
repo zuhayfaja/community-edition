@@ -78,6 +78,11 @@
 
 1. Visit your instance at `$BASE_URL` and create the first user.
 
+> [!NOTE]
+> Plausible CE is funded by our cloud subscribers.
+>
+> If you know someone who might find Plausible useful, we'd appreciate if you'd let them know.
+
 ### Wiki
 
 For more information on installation, upgrades, configuration, and integrations please see our [wiki.](https://github.com/plausible/community-edition/wiki)
