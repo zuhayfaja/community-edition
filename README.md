@@ -81,7 +81,7 @@
 > [!NOTE]
 > Plausible CE is funded by our cloud subscribers.
 >
-> If you know someone who might find Plausible useful, we'd appreciate if you'd let them know.
+> If you know someone who might [find Plausible useful](https://plausible.io/?utm_medium=Social&utm_source=GitHub&utm_campaign=readme), we'd appreciate if you'd let them know.
 
 ### Wiki
 
