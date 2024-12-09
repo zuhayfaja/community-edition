@@ -5,7 +5,7 @@
     <mark_cache_size>524288000</mark_cache_size>
 
     <profile>
-        <detault>
+        <default>
             <!-- https://clickhouse.com/docs/en/operations/settings/settings#max_threads -->
             <max_threads>1</max_threads>
             <!-- https://clickhouse.com/docs/en/operations/settings/settings#max_block_size -->
@@ -18,6 +18,6 @@
             <!--
             https://clickhouse.com/docs/en/operations/settings/settings#output_format_parallel_formatting -->
             <output_format_parallel_formatting>0</output_format_parallel_formatting>
-        </detault>
+        </default>
     </profile>
 </clickhouse>
