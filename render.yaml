@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: plaus
+    env: docker
+    repo: https://github.com/yourusername/community-edition
+    plan: free
+    region: singapore
+    branch: main
+    dockerContext: .
+    dockerfilePath: ./Dockerfile  # Not actually used, but required by Render for now
+    envVars:
+      - key: BASE_URL
+        value: https://stats.zuhayfaja.com
+      - key: SECRET_KEY_BASE
+        generateValue: true
