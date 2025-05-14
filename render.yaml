@@ -2,7 +2,7 @@ services:
   - type: web
     name: plaus
     env: docker
-    repo: https://github.com/yourusername/community-edition
+    repo: https://github.com/zuhayfaja/community-edition
     plan: free
     region: singapore
     branch: main
